@@ -18,11 +18,11 @@ buttons to be used to take care of the pet (Andersen, 2021). Just like
 the toy egg, this application was developed to be used by children but
 it’s not limited as the public can also use it.
 
-<img src="media/image1.png" style="width:1.43611in;height:2.15417in" />
+![home](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/6adbc240-1096-47ab-9a88-4d904d5b8d6e)
 
 Figure 1:Welcome Page Background (Canva, 2024)
 
-<img src="media/image2.png" style="width:1.21111in;height:1.81667in" />
+![clean](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/504619e0-c7c7-4b07-a296-46bff52472c2)
 
 Figure 2: PLAY Page Background (Canva, 2024)
 
@@ -40,7 +40,7 @@ as previously mentioned above, where the user can feed, play and clean
 the virtual pet by a press of a button. The image of the pet will change
 accordingly with the action.
 
-<img src="media/image3.png" style="width:3.475in;height:3.74167in" /><img src="media/image4.png" style="width:3.475in;height:3.74167in" /><img src="media/image5.png" style="width:3.475in;height:3.74167in" /><img src="media/image6.png" style="width:3.475in;height:3.74167in" />
+![Picture1](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/171b2fdf-6b77-419a-aa9b-f1cfedfded54)
 
 As status bars will also increase at the same time, to visually
 represent the status of the pet’s health, hunger and cleanliness, but
@@ -58,8 +58,7 @@ The application is a new way to take an old vintage toy and recreate it
 to be innovative and to be used by all in the 21’st century by all that
 have smartphones.
 
-<img src="media/image11.jpeg"
-style="width:1.34167in;height:1.34167in" />
+![Original Tamagotchi - Pink Glitter](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/d46389b4-39d1-4b28-bcdf-a77e73ab4953)
 
 # **Design Consideration**
 
@@ -75,7 +74,7 @@ was Kotlin. The coding emulator specification was set as:
 
 *Android 8.0 (“Oreo”) | x86*
 
-<img src="media/image12.png" style="width:5.97842in;height:0.57599in" />
+![Picture2](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/e5dec3e5-a58b-461e-ac60-b94972e913a1)
 
 ## <u>Intuitive Design</u>
 
