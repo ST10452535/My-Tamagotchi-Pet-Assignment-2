@@ -64,7 +64,11 @@ have smartphones.
 
 As this application has **two pages**.
 
-\[Images\]
+![Screenshot 2024-05-06 180418](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/57948900-0fb4-4b93-96aa-6477cb2f2e3a)  
+*This is the Main Activity Window*
+
+![Screenshot 2024-05-06 180628](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/a5e0fcb3-4126-4766-880e-ae49086745ac)  
+*This is the Play Activity Window*
 
 When designing and developing this application it was all done in the
 Android Studio Iguana | 2023.2.1. When developing the coding language
@@ -190,7 +194,7 @@ TextView2
 
 Button btnPlay (to continue to second page)
 
-\[Image\]
+![Screenshot 2024-05-06 180700](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/596d4aac-0336-422f-8836-41dc9620e7c7)
 
 ImageView dogImageView (display images when corresponding button
 clicked)
@@ -207,7 +211,7 @@ TextView txtCleanliness
 
 TextView txtHealth
 
-\[Image\]
+![Screenshot 2024-05-06 180723](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/24516196-4968-44d7-883c-457f24274e79)
 
 ## <u>Legible Text Content</u>
 
@@ -240,10 +244,14 @@ application.
 Step 1: When running the app on the emulator, it will open on the
 Welcome Page. Where a message will be displayed.
 
+![Screenshot 2024-05-06 180953](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/1cfb2e8b-3393-406c-80d5-963b8e6a129a)
+
 Step 2: The user will then be able to press the “PLAY” button, to
 continue on to the next page.
 
 Step 3: The user will then be presented by the play page.
+
+![Screenshot 2024-05-06 181019](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/4d409ec4-ea39-4bb0-96e3-6ff06da1430e)
 
 Step 4: The user will then press the “Feed” button as a way of input.
 
@@ -253,6 +261,8 @@ on what to do.
 Step 6: The image in the dogImageView will change to one of a “Dog
 Eating”, and at the same time the status next to Hunger will increase by
 5 in the txtHunger status bar to showcase the dog has been fed.
+
+![Screenshot 2024-05-06 181039](https://github.com/ST10452535/My-Tamagotchi-Pet-Assignment-2/assets/160850866/6aca1c6f-b2c6-457a-8e0b-c4ca9ea525e1)
 
 Step 7: The user will be able to press the back button to back to the
 Welcoming Page or Exit the application.
